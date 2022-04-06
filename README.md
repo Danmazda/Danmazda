@@ -2,7 +2,7 @@
 
 - 🌱 Aprendendo NextJs e NestJs ( com typescript pq virou meu amorzinho )
 - 📫 Se quiser entrar em contato: dtfsprocopio@gmail.com
-- ⚡ Curiosidade: Tenho 6 nomes e nenhum deles é Mazda, dan_mazda foi um perfil que inventei quando entrei na interwebs lá em 2007 pq zerei Need for Speed Underground 2 com o Mazda RX-7. 
+- ⚡ Curiosidade: Tenho 6 nomes e nenhum deles é Mazda, dan_mazda foi um perfil que inventei quando entrei na interwebs lá em 2005 pq zerei Need for Speed Underground 2 com o Mazda RX-7. 
 - 🚗 Cars go vroom vroom very fast  
 <div align="center">
   <a href="https://github.com/Danmazda">
